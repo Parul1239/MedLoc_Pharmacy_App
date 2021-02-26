@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582593366909",
+    "firebase_url": "https://medloc-6f295.firebaseio.com",
+    "project_id": "medloc-6f295",
+    "storage_bucket": "medloc-6f295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582593366909:android:0385e043b2c6b5fb1cda14",
+        "android_client_info": {
+          "package_name": "com.sample.flutter_medloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582593366909-8i8df4pjgv0vgmv1nc9jq9e32cp6ch19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyihYtJLvKj82WF0wEeyi8L22Sbqe4mt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582593366909-8i8df4pjgv0vgmv1nc9jq9e32cp6ch19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

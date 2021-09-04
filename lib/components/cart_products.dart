@@ -32,7 +32,7 @@ class CartScreen extends State<Pay> {
 
   void openCheckout() async{
     var options = {
-      'key' : 'rzp_test_OJCDcPRQysdzkk',
+      'key' : '###############',
       'amount' : totalAmount * 100,
       'name' : 'MedLoc',
       'description' : 'Payment for Product',
@@ -208,12 +208,5 @@ class Orders with ChangeNotifier {
       throw err;
     }
   }
-
- Future<void> fetchorders() async {
-    final response = await http.get("https://medloc-6f295.firebaseio.com/orders.json?");
-    print(json.decode(response.body));
-  }
-
-
 }
 
